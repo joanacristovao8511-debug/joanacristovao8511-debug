@@ -114,9 +114,13 @@ Currently focused on:
 
 # 📊 GitHub Analytics
 
+# 📊 GitHub Analytics
+
 <p align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=joanacristovao8511-debug&show_icons=true&theme=tokyonight" />
+<img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=joanacristovao8511-debug&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joanacristovao8511-debug&layout=compact&theme=tokyonight&hide_border=true" />
 
 </p>
 
@@ -135,10 +139,9 @@ Currently focused on:
 
 # 🏆 GitHub Achievements
 
-
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=joanacristovao8511-debug&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=joanacristovao8511-debug&theme=tokyonight&no-frame=true&margin-w=15" />
 
 </p>
 
