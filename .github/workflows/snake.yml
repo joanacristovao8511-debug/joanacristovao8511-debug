@@ -6,8 +6,9 @@ on:
 
   workflow_dispatch:
 
+
 jobs:
-  snake:
+  generate:
 
     runs-on: ubuntu-latest
 
@@ -19,8 +20,10 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
 
+
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           build_dir: dist
+
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
