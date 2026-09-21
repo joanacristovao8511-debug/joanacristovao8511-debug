@@ -114,8 +114,6 @@ Currently focused on:
 
 # 📊 GitHub Analytics
 
-# 📊 GitHub Analytics
-
 <p align="center">
 
 <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=joanacristovao8511-debug&show_icons=true&theme=tokyonight&hide_border=true" />
