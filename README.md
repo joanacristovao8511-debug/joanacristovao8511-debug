@@ -114,15 +114,11 @@ Currently focused on:
 
 # 📊 GitHub Analytics
 
-
 <p align="center">
 
-<img height="180"
-src="https://github-readme-stats.vercel.app/api?username=joanacristovao8511-debug&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=joanacristovao8511-debug&show_icons=true&theme=tokyonight&hide_border=true" />
 
-
-<img height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=joanacristovao8511-debug&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joanacristovao8511-debug&layout=compact&theme=tokyonight&hide_border=true" />
 
 </p>
 
