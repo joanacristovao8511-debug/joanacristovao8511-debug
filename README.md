@@ -133,6 +133,9 @@ Currently focused on:
 
 </p>
 
+## 📈 Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=joanacristovao8511-debug&theme=tokyo-night"/>
 
 
 # 🏆 GitHub Achievements
