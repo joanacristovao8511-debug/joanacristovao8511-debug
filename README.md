@@ -1,138 +1,227 @@
-<!-- Profile Header -->
+<!-- ================= HEADER ================= -->
 
 <h1 align="center">
-  Hi 👋, I'm YOUR_NAME
+  👋 Hi, I'm Joana Cristovao
 </h1>
 
 <h3 align="center">
-  Full Stack Developer | AI Enthusiast | Open Source Contributor
+  🚀 Fullstack Developer | 🤖 AI Product Builder | 🌐 Modern Web Engineer
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=flat" />
+  Building intelligent products with Next.js, Python, and AI.
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=joanacristovao8511-debug&label=Profile%20Views&color=blue&style=flat" />
 </p>
 
 
 <!-- Animated Banner -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=YOUR_NAME&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=AI%20Product%20Builder&fontSize=60&animation=fadeIn" />
 
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 🔭 Currently working on **YOUR_PROJECT**
-- 🌱 Learning **AI / Cloud / Web Development**
-- 💬 Ask me about **Python, JavaScript, React**
-- ⚡ Fun fact: I love building useful things
+I'm a **Fullstack + AI Product Builder** passionate about creating scalable applications and intelligent systems.
 
+Currently focused on:
 
-## 🛠 Tech Stack
-
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+- 🤖 AI assistants and AI-powered applications
+- ⚡ Modern fullstack architectures
+- 🌐 SaaS products
+- 🧠 LLM integrations
+- ☁️ Cloud-native deployments
 
 
-### Frontend
+## 🚀 What I Build
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-
-
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+✨ AI-powered web applications  
+✨ Fullstack SaaS platforms  
+✨ Developer tools  
+✨ Automation systems  
+✨ Modern responsive interfaces  
 
 
+# 🛠 Tech Stack
 
-## 📊 GitHub Stats
+
+## Frontend
+
+<p>
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js">
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react">
+
+<img src="https://img.shields.io/badge/Zustand-black?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite">
+
+</p>
+
+
+## Backend
+
+<p>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python">
+
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django">
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js">
+
+</p>
+
+
+## AI Development
+
+<p>
+
+<img src="https://img.shields.io/badge/AI_Assistants-FF6F00?style=for-the-badge&logo=openai">
+
+<img src="https://img.shields.io/badge/LLM_Applications-purple?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Prompt_Engineering-blueviolet?style=for-the-badge">
+
+</p>
+
+
+## Database & DevOps
+
+<p>
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql">
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb">
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker">
+
+<img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel">
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+
+</p>
+
+
+
+# 📊 GitHub Analytics
 
 
 <p align="center">
 
 <img height="180"
-src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+src="https://github-readme-stats.vercel.app/api?username=joanacristovao8511-debug&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 
 <img height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
-
-## 🔥 GitHub Streak
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
-
-
-## 🐍 Contribution Snake Animation
-
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
-
-
-## 🚀 Featured Projects
-
-
-### Project 1
-
-🔗 https://github.com/YOUR_USERNAME/project1
-
-Description:
-> Short description of your project.
-
-
-### Project 2
-
-🔗 https://github.com/YOUR_USERNAME/project2
-
-Description:
-> Another cool project.
-
-
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=6"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=joanacristovao8511-debug&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 
 
-## 🌐 Connect With Me
+# 🔥 Contribution Streak
 
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=joanacristovao8511-debug&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+
+
+# 🏆 GitHub Achievements
+
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=joanacristovao8511-debug&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
+
+
+
+# 🐍 Contribution Snake
+
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/joanacristovao8511-debug/joanacristovao8511-debug/output/github-contribution-grid-snake.svg">
+
+</p>
+
+
+
+# 🚀 Featured Projects
+
+
+## 🤖 AI Assistant Platform
+
+AI-powered assistant application using:
+
+- Next.js
+- TypeScript
+- Python
+- LLM APIs
+- PostgreSQL
+
+
+## 🌐 Fullstack SaaS Application
+
+Modern SaaS architecture:
+
+- Next.js
+- TailwindCSS
+- Django
+- Docker
+- Vercel
+
+
+
+# 📚 Currently Learning
+
+- Advanced AI Agent architectures
+- RAG systems
+- LLM application design
+- Cloud infrastructure
+- Scalable backend systems
+
+
+
+# 📫 Connect With Me
+
+
+<p align="center">
+
+<a href="https://github.com/joanacristovao8511-debug">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://linkedin.com">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
 
-
-<a href="https://twitter.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x">
-</a>
-
-
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:your-email@example.com">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
 </a>
 
 </p>
 
 
+
 ---
 
-⭐ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+<p align="center">
+
+⭐ Building the future with code + AI
+
+</p>
